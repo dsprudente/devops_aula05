@@ -1,1 +1,1 @@
-esse é o aqruivo teste.py
+esse é o aqruivo obrigatório teste.py

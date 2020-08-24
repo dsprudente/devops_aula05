@@ -1,1 +1,1 @@
-esse é o arquivo jogovelha.py
+esse é o arquivo obrigatório jogovelha.py

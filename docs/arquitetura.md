@@ -1,1 +1,1 @@
-este é o arquivo arquitetura.
+este é o arquivo obrigatório arquitetura.md
